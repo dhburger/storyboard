@@ -14,3 +14,7 @@ Interactive story for my python programming class.
  2. Second, there will be a fight at the end of the game! There will be two options you can make while fighting.
   * Attack: This will ensure that both you and the boss take damage, how much damage will depend on how much armor and what kind of weapon you have.
   * Dodge: This will give you a 75% chance to successfully dodge the boss's attack. If you have a successful dodge, the boss will miss and strike himself for 2 health.
+## What if you type something other than the given options?
+ The game will break.
+## Is there any required software instalation to play?
+ Other than a version of Python 2.7, you will not have to download and install anything to play this game.
