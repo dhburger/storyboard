@@ -12,5 +12,5 @@ Interactive story for my python programming class.
   * For whichever path you choose, the story will give you different items.
   * Keep in mind that there are dead ends that will require you to restart the game, so be careful on which option you choose!
  2. Second, there will be a fight at the end of the game! There will be two options you can make while fighting.
-  * Attack
-  ** Attacking will ensure that both you and the boss take damage, how much damage will depend on how much armor and what kind of weapon you have.
+  * Attack: This will ensure that both you and the boss take damage, how much damage will depend on how much armor and what kind of weapon you have.
+  * Dodge: This will give you a 75% chance to successfully dodge the boss's attack. If you have a successful dodge, the boss will miss and strike himself for 2 health.
