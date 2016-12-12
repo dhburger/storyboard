@@ -7,6 +7,6 @@ Interactive story for my python programming class.
 ## How do you play this Interactive Story Game?
 #### The main point of this Interactive Story Game is that you will be given options and choices to make throughout the game.
 #### 1. First, you will go through the story of the game.
-#### --* The game will provide you with options to choose from.
-#### --* The game will then prompt you to chose an option and the story will follow that specific path.
-#### --* Keep in mind that there are dead ends that will require you to restart the game, so be careful on which option you choose!
+  * The game will provide you with options to choose from.
+  * The game will then prompt you to chose an option and the story will follow that specific path.
+  * Keep in mind that there are dead ends that will require you to restart the game, so be careful on which option you choose!
