@@ -9,4 +9,5 @@ Interactive story for my python programming class.
  1. First, you will go through the story of the game.
   * The game will provide you with options to choose from.
   * The game will then prompt you to chose an option and the story will follow that specific path.
+  * For whichever path you choose, the story will give you different items for the fight at the end!
   * Keep in mind that there are dead ends that will require you to restart the game, so be careful on which option you choose!
